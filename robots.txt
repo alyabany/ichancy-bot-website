@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alyabany.github.io/ichancy-bot-website/sitemap.xml
